@@ -9,6 +9,8 @@ public interface SystemOperations {
 	 ParkingTicket checkOutVehicle(int vehicleID) throws Exception;
 	 boolean searchVehicle(int vehicleId);
 	 int findEmptySpaces();
+	 
+	 
 
 	 
 	
